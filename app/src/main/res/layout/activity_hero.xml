@@ -20,7 +20,7 @@
         android:id="@+id/tv_item_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ahmad Alief 22 019"
+        android:text="Dirda Megantara\n F55122026"
         android:textSize="30dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/tv_item_description"
